@@ -1,0 +1,2 @@
+# htpasswd-ansible
+.htpasswd file
